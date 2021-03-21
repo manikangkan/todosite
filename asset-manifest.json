@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/todosite.github.io/react-deploy/static/js/main.ef52ce20.chunk.js",
+    "main.js.map": "/todosite.github.io/react-deploy/static/js/main.ef52ce20.chunk.js.map",
+    "runtime-main.js": "/todosite.github.io/react-deploy/static/js/runtime-main.f680680f.js",
+    "runtime-main.js.map": "/todosite.github.io/react-deploy/static/js/runtime-main.f680680f.js.map",
+    "static/js/2.3594fffa.chunk.js": "/todosite.github.io/react-deploy/static/js/2.3594fffa.chunk.js",
+    "static/js/2.3594fffa.chunk.js.map": "/todosite.github.io/react-deploy/static/js/2.3594fffa.chunk.js.map",
+    "static/css/3.7436b186.chunk.css": "/todosite.github.io/react-deploy/static/css/3.7436b186.chunk.css",
+    "static/js/3.baafa5a3.chunk.js": "/todosite.github.io/react-deploy/static/js/3.baafa5a3.chunk.js",
+    "static/js/3.baafa5a3.chunk.js.map": "/todosite.github.io/react-deploy/static/js/3.baafa5a3.chunk.js.map",
+    "index.html": "/todosite.github.io/react-deploy/index.html",
+    "static/css/3.7436b186.chunk.css.map": "/todosite.github.io/react-deploy/static/css/3.7436b186.chunk.css.map",
+    "static/js/2.3594fffa.chunk.js.LICENSE.txt": "/todosite.github.io/react-deploy/static/js/2.3594fffa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f680680f.js",
+    "static/js/2.3594fffa.chunk.js",
+    "static/js/main.ef52ce20.chunk.js"
+  ]
+}
